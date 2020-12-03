@@ -1,0 +1,19 @@
+#upper{
+    height: 400px;
+    background-color: RGB(0, 179, 138);
+}
+#middle{
+    position: absolute;
+    top: 77px;
+    left: 50%;
+    margin-left: -325px;
+    width: 700px;
+    height: 490px;
+}
+.input1{
+    height: 44px;
+    width: 400px;
+}
+.upper_dec{
+    background-color: white;
+}
