@@ -10,12 +10,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a38346-73d0-4169-aa1a-fe172b7d6061" name="Default Changelist" comment="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="49a38346-73d0-4169-aa1a-fe172b7d6061" name="Default Changelist" comment="登录页面完成">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,7 @@
       <workItem from="1607158009593" duration="523000" />
       <workItem from="1607158580073" duration="5000" />
       <workItem from="1607349979521" duration="10000" />
-      <workItem from="1607432786231" duration="2827000" />
+      <workItem from="1607432786231" duration="2932000" />
     </task>
     <task id="LOCAL-00001" summary="first time">
       <created>1606923874509</created>
@@ -116,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607094558371</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="登录页面完成">
+      <created>1607435647278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607435647278</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +142,8 @@
     <MESSAGE value="try more" />
     <MESSAGE value="添加登陆页面相关信息（有点小烦躁 加油）" />
     <MESSAGE value="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~" />
-    <option name="LAST_COMMIT_MESSAGE" value="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~" />
+    <MESSAGE value="登录页面完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录页面完成" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607073011728">
