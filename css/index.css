@@ -1,3 +1,6 @@
+body{
+    -webkit-font-smoothing: antialiased;
+}
 #upper{
     position: relative;
     width: 100%;
@@ -131,14 +134,51 @@
 {
     text-decoration: none;
     display: inline-block;
-    height: 22px;
-    font-size: 16px;
+    height: 23px;
+    line-height: 23px;
+    font-size: 15px;
     color: #00b38a;
     padding-right: 23px;
     background: url(//www.lgstatic.com/lg-passport-fed/static/pc/modules/common/img/icon-arrow-right_ea91505.png) right center no-repeat;
 }
 #right h5{
+    font-family: "Hiragino Sans GB","Microsoft Yahei",SimSun,Arial,"Helvetica Neue",Helvetica,sans-serif;
     margin: 44px 0 8px;
-    font-size: 14px;
+    font-size: 13px;
     color: #555;
+    -webkit-font-smoothing: antialiased;
+}
+#right .signInWay li{
+    display: inline-block;
+    margin: 10px 5px;
+}
+#right .signInWay a {
+    display: inline-block;
+    width: 20px;
+    height: 16px;
+}
+
+#right .signInWay .icon_baidu {
+      background: url("../img/icon-baidu.png") center no-repeat;
+}
+#right .signInWay .icon_baidu:hover{
+     background: url("../img/icon-baidu-hover.png") center no-repeat;
+}
+#right .signInWay .icon_QQ{
+    background: url("../img/icon-tencent.png") center no-repeat;
+}
+#right .signInWay .icon_QQ:hover{
+    background: url("../img/icon-tencent-hover.png") center no-repeat;
+}
+#right .signInWay .icon_weChat{
+    background: url("../img/icon-wechat.png") center no-repeat;
+}
+#right .signInWay .icon_weChat:hover{
+    background: url("../img/icon-wechat-hover.png") center no-repeat;
+}
+#right .signInWay .icon_sina{
+    background: url("../img/icon-sina1.png") center no-repeat;
+}
+#right .signInWay .icon_sina:hover{
+    background: url("../img/icon-sina-hover.png") center no-repeat;
 }

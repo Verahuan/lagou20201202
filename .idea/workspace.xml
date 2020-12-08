@@ -10,10 +10,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a38346-73d0-4169-aa1a-fe172b7d6061" name="Default Changelist" comment="添加登陆页面相关信息（有点小烦躁 加油）">
+    <list default="true" id="49a38346-73d0-4169-aa1a-fe172b7d6061" name="Default Changelist" comment="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -79,7 +81,12 @@
       <workItem from="1606923804880" duration="739000" />
       <workItem from="1606966441086" duration="8299000" />
       <workItem from="1607046130358" duration="5531000" />
-      <workItem from="1607065184421" duration="15763000" />
+      <workItem from="1607065184421" duration="15860000" />
+      <workItem from="1607094728273" duration="31000" />
+      <workItem from="1607158009593" duration="523000" />
+      <workItem from="1607158580073" duration="5000" />
+      <workItem from="1607349979521" duration="10000" />
+      <workItem from="1607432786231" duration="2827000" />
     </task>
     <task id="LOCAL-00001" summary="first time">
       <created>1606923874509</created>
@@ -102,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606981882009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~">
+      <created>1607094558371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607094558371</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,7 +138,8 @@
     <MESSAGE value="first time" />
     <MESSAGE value="try more" />
     <MESSAGE value="添加登陆页面相关信息（有点小烦躁 加油）" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加登陆页面相关信息（有点小烦躁 加油）" />
+    <MESSAGE value="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录页面基本完成，涉及到一些布局和初始样式的问题！加油哇~" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607073011728">
@@ -139,9 +154,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="376" y="101" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1606923836065" />
-    <state x="188" y="93" key="Vcs.Push.Dialog.v2" timestamp="1606981889526">
+    <state x="188" y="93" key="Vcs.Push.Dialog.v2" timestamp="1607094561897">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="188" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1606981889526" />
+    <state x="188" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1607094561897" />
   </component>
 </project>
