@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49a38346-73d0-4169-aa1a-fe172b7d6061" name="Default Changelist" comment="登录页面完成">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="ProjectId" id="1l6iB1mXctwS6YvcKbBaU9goPFA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -82,7 +86,9 @@
       <workItem from="1607158009593" duration="523000" />
       <workItem from="1607158580073" duration="5000" />
       <workItem from="1607349979521" duration="10000" />
-      <workItem from="1607432786231" duration="2932000" />
+      <workItem from="1607432786231" duration="3662000" />
+      <workItem from="1611650759188" duration="130000" />
+      <workItem from="1612278025058" duration="45000" />
     </task>
     <task id="LOCAL-00001" summary="first time">
       <created>1606923874509</created>
@@ -119,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607435647278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="登录页面完成">
+      <created>1607435747931</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607435747931</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,9 +171,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="376" y="101" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1606923836065" />
-    <state x="188" y="93" key="Vcs.Push.Dialog.v2" timestamp="1607094561897">
+    <state x="188" y="93" key="Vcs.Push.Dialog.v2" timestamp="1607435754722">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="188" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1607094561897" />
+    <state x="188" y="93" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1607435754722" />
   </component>
 </project>
